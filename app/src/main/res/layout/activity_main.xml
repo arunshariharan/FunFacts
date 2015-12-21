@@ -20,7 +20,7 @@
         android:layout_height="900dp"
         android:id="@+id/imageView"
         android:layout_centerHorizontal="true"
-        android:src="#ffaf8bff"
+        android:src="#637a91"
         android:layout_marginLeft="100dp"
         android:layout_marginTop="100dp"
         android:layout_marginRight="100dp"
